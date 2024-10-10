@@ -1,0 +1,7 @@
+FundMeTest:testCheckIfOnlyOwnerCanithdrawl() (gas: 100003)
+FundMeTest:testCheckIfOwnerIsDeployer() (gas: 11388)
+FundMeTest:testIfOwnerCanWithdraw() (gas: 85257)
+FundMeTest:testIfUserIsMatchedToTheAmountPaid() (gas: 99833)
+FundMeTest:testIfUsersThatPayedAreSaved() (gas: 104718)
+FundMeTest:testRevertIfEnoughEthIsNotSent() (gas: 23016)
+FundMeTest:testWithdrawlFromMultipleFunders() (gas: 487970)
